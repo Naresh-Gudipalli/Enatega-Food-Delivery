@@ -1,5 +1,5 @@
 
-# Enatega Single Vendor Solution
+# Enatega Food delivery
 
 <div align="center">
 
@@ -151,24 +151,7 @@ Find the link for the complete documentation of the Enatega Single Vendor Soluti
 
 ## :tv: Demo Videos: <a id="heading-14"></a>
 
-| Demo |
+| YT Link |
 | :--: |
 
 | <a href="https://www.youtube.com/watch?v=AWbdt9GX1t4"><img src="https://img.youtube.com/vi/AWbdt9GX1t4/0.jpg" width="200" alt="Video"></a>
-
-## :people_holding_hands: Contributors: <a id="heading-14"></a>
-
-<div align="center">
-<br>
-<a href="https://github.com/Ninjas-Code-official/Enatega-Food-Delivery-Solution/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ninjas-Code-official/Enatega-Food-Delivery-Solution"" style="max-width: 50%; height: auto;" />
-</a>
-</div>
-
-## :warning: Disclaimer: <a id="heading-12"></a>
-
-The frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For further information, contact us on the channels provided below.
-
-## :mailbox_with_mail: Contact Us: <a id="heading-13"></a>
-
-[Check out the product page and pricing and more for Enatega Food Delivery Solution](https://enatega.com/enatega-single-vendor?utm_source=github&utm_medium=opensource&utm_campaign=enatega-restaurant-solution).
